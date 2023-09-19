@@ -14,7 +14,7 @@ To run the application you need to follow below steps:
 
 Initial screen
 
-![Alt text](1.png)
+![Alt text](screenshots/1.png)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
