@@ -1,15 +1,20 @@
 # quiz_app
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Quiz Application of flutter questions.
 
-A few resources to get you started if this is your first Flutter project:
+To run the application you need to follow below steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clone the repo
+- go in the directory 
+- type the command "flutter run lib/main.dart"
+
+## Screen Shots of Running Application.
+
+Initial screen
+
+![Alt text](1.png)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
